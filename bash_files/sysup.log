@@ -1,0 +1,48 @@
+Get:1 https://packages.microsoft.com/debian/12/prod bookworm InRelease [3,618 B]
+Get:3 https://packages.microsoft.com/repos/code stable InRelease [3,590 B]
+Get:4 https://dl.winehq.org/wine-builds/debian bookworm InRelease [12.1 kB]
+Get:6 https://packages.microsoft.com/debian/12/prod bookworm/main armhf Packages [14.7 kB]
+Get:7 https://packages.microsoft.com/debian/12/prod bookworm/main arm64 Packages [25.4 kB]
+Get:8 https://dl.winehq.org/wine-builds/debian bookworm/main amd64 Packages [396 kB]
+Get:2 http://mirror.kku.ac.th/kali kali-rolling InRelease [41.5 kB]
+Get:9 https://packages.microsoft.com/debian/12/prod bookworm/main amd64 Packages [96.9 kB]
+Hit:5 https://hub-dist.unity3d.com/artifactory/hub-debian-prod-local stable InRelease
+Get:10 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Packages [21.0 MB]
+Get:11 https://packages.microsoft.com/repos/code stable/main arm64 Packages [19.4 kB]
+Get:12 https://packages.microsoft.com/repos/code stable/main amd64 Packages [19.4 kB]
+Get:13 https://packages.microsoft.com/repos/code stable/main armhf Packages [19.5 kB]
+Get:14 https://dl.winehq.org/wine-builds/debian bookworm/main i386 Packages [394 kB]
+Get:15 https://dl.winehq.org/wine-builds/debian bookworm/main i386 Contents (deb) [234 kB]
+Hit:16 https://download.sublimetext.com apt/stable/ InRelease
+Get:17 https://dl.winehq.org/wine-builds/debian bookworm/main amd64 Contents (deb) [245 kB]
+Ign:10 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Packages
+Get:18 http://mirror.kku.ac.th/kali kali-rolling/main i386 Packages [20.4 MB]
+Get:19 http://mirror.kku.ac.th/kali kali-rolling/main i386 Contents (deb) [47.7 MB]
+Ign:19 http://mirror.kku.ac.th/kali kali-rolling/main i386 Contents (deb)
+Get:20 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb) [51.4 MB]
+Ign:20 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb)
+Get:21 http://mirror.kku.ac.th/kali kali-rolling/contrib i386 Packages [99.5 kB]
+Get:22 http://mirror.kku.ac.th/kali kali-rolling/contrib amd64 Packages [120 kB]
+Get:23 http://mirror.kku.ac.th/kali kali-rolling/contrib i386 Contents (deb) [183 kB]
+Get:24 http://mirror.kku.ac.th/kali kali-rolling/contrib amd64 Contents (deb) [327 kB]
+Get:25 http://mirror.kku.ac.th/kali kali-rolling/non-free i386 Packages [147 kB]
+Get:26 http://mirror.kku.ac.th/kali kali-rolling/non-free amd64 Packages [197 kB]
+Get:27 http://mirror.kku.ac.th/kali kali-rolling/non-free amd64 Contents (deb) [911 kB]
+Get:28 http://mirror.kku.ac.th/kali kali-rolling/non-free i386 Contents (deb) [859 kB]
+Get:29 http://mirror.kku.ac.th/kali kali-rolling/non-free-firmware amd64 Packages [10.6 kB]
+Get:30 http://mirror.kku.ac.th/kali kali-rolling/non-free-firmware amd64 Contents (deb) [26.4 kB]
+Get:10 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Packages [21.0 MB]
+Ign:10 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Packages
+Ign:19 http://mirror.kku.ac.th/kali kali-rolling/main i386 Contents (deb)
+Ign:20 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb)
+Ign:10 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Packages
+Ign:19 http://mirror.kku.ac.th/kali kali-rolling/main i386 Contents (deb)
+Ign:20 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb)
+Ign:10 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Packages
+Ign:19 http://mirror.kku.ac.th/kali kali-rolling/main i386 Contents (deb)
+Ign:20 http://mirror.kku.ac.th/kali kali-rolling/main amd64 Contents (deb)
+Get:19 http://kali.download/kali kali-rolling/main i386 Contents (deb) [47.7 MB]
+Get:10 http://mirrors.ustc.edu.cn/kali kali-rolling/main amd64 Packages [21.0 MB]
+Get:20 http://kali.download/kali kali-rolling/main amd64 Contents (deb) [51.4 MB]
+Fetched 121 MB in 25min 16s (79.9 kB/s)
+Reading package lists...
